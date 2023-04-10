@@ -1,0 +1,16 @@
+<svg class="svgicon css62" preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="border-radius: 0%;">
+    <rect x="0" y="0" width="512" height="512" style="fill: none" rx="0" ry="0"></rect>
+    <g transform="scale(0.8) translate(63.999999999999986, 63.999999999999986)" transform-origin="0 0">
+        <g>
+            <path fill="rgb(0, 195, 124)" d="M331,237.3c0-41.4-33.6-75-75-75c-41.4,0-75,33.6-75,75c0,41.4,33.6,75,75,75C297.4,312.3,331,278.6,331,237.3z M256,274.8 c-20.7,0-37.5-16.8-37.5-37.5s16.8-37.5,37.5-37.5s37.5,16.8,37.5,37.5S276.7,274.8,256,274.8z"></path>
+            <path fill="rgb(0, 195, 124)" d="M312.3,312.3H256h-56.3c-41.4,0-75,33.6-75,75v56.3h262.5v-56.3C387.3,345.9,353.6,312.3,312.3,312.3z M349.8,406H162.3 v-18.8c0-20.7,16.8-37.5,37.5-37.5h112.5c20.7,0,37.5,16.8,37.5,37.5V406z"></path>
+            <rect fill="rgb(0, 195, 124)" x="237.3" y="68.5" width="37.5" height="56.3"></rect>
+            <polygon fill="rgb(0, 195, 124)" points="189.7,144.4 149.9,104.7 123.4,131.2 163.2,171 "></polygon>
+            <rect fill="rgb(0, 195, 124)" x="87.3" y="218.5" width="56.3" height="37.5"></rect>
+            <rect fill="rgb(0, 195, 124)" x="368.5" y="218.5" width="56.3" height="37.5"></rect>
+            <rect fill="rgb(0, 195, 124)" x="336.7" y="109.7" transform="matrix(0.7071 0.7071 -0.7071 0.7071 201.5544 -210.9654)" width="37.5" height="56.2"></rect>
+        </g>
+    </g>
+</svg>
+

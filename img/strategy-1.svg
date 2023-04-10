@@ -1,0 +1,12 @@
+<svg class="svgicon css62" preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="border-radius: 0%;">
+    <rect x="0" y="0" width="512" height="512" style="fill: none" rx="0" ry="0"></rect>
+    <g transform="scale(0.8) translate(63.999999999999986, 63.999999999999986)" transform-origin="0 0">
+        <g>
+            <path fill="rgb(0, 195, 124)" d="M387.5,143.8v-37.1h55.6V69.3H68.5v37.4h57.4v37.1h-56v298.9h186.8V143.8h-93.4v-37.1h186.8v37.1h-74.7v298.9h168.1V143.8 H387.5z M219.3,405.3H107.2V181.2h112.1V405.3z M406.1,405.3h-93.4V181.2h93.4V405.3z"></path>
+            <rect fill="rgb(0, 195, 124)" x="331.4" y="218.5" width="56" height="37.4"></rect>
+            <rect fill="rgb(0, 195, 124)" x="331.4" y="293.2" width="56" height="37.4"></rect>
+            <rect fill="rgb(0, 195, 124)" x="144.6" y="349.3" width="37.4" height="37.4"></rect>
+        </g>
+    </g>
+</svg>

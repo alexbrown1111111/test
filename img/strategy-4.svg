@@ -1,0 +1,10 @@
+<svg class="svgicon css62" preserveAspectRatio="xMidYMid meet"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="border-radius: 0%;">
+    <rect x="0" y="0" width="512" height="512" style="fill: none" rx="0" ry="0"></rect>
+    <g transform="scale(0.8) translate(63.999999999999986, 63.999999999999986)" transform-origin="0 0">
+        <g>
+            <path fill="rgb(0, 195, 124)" d="M256,68.5C152.6,68.5,68.5,152.6,68.5,256c0,103.4,84.1,187.5,187.5,187.5c103.4,0,187.5-84.1,187.5-187.5 C443.5,152.6,359.4,68.5,256,68.5z M256,406c-82.7,0-150-67.3-150-150c0-82.7,67.3-150,150-150c82.7,0,150,67.3,150,150 C406,338.7,338.7,406,256,406z"></path>
+            <polygon fill="rgb(0, 195, 124)" points="274.8,143.5 237.3,143.5 237.3,263.8 299,325.5 325.5,299 274.8,248.2 "></polygon>
+        </g>
+    </g>
+</svg>
